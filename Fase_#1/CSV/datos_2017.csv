@@ -1,0 +1,393 @@
+Tipo,Nombre,Año,Mes,Id_pelicula,Genero
+movie,Quan jia fu,2017,10.0,tt0087963,Drama
+movie,La telenovela errante,2017,9.0,tt0100275,Drama
+movie,Joe Finds Grace,2017,4.0,tt0137204,Drama
+short,Reading Between the Lines,2017,10.0,tt0269768,Drama
+movie,The Only Living Boy in New York,2017,8.0,tt0460890,Drama
+movie,Tulip Fever,2017,8.0,tt0491203,Drama
+movie,Suburbicon,2017,11.0,tt0491175,Drama
+movie,Rings,2017,2.0,tt0498381,Drama
+movie,Caravaggio and My Mother the Pope,2017,12.0,tt0825334,Drama
+movie,Krystal,2017,4.0,tt0835802,Drama
+movie,The Dot Man,2017,,tt0874268,Drama
+short,Ghost Walk: The Harvest Ball,2017,5.0,tt10004180,Drama
+short,The Pursuit of Love,2017,7.0,tt10009896,Drama
+short,Afternoon Clouds,2017,5.0,tt10012542,Drama
+short,Value,2017,2.0,tt10009428,Drama
+movie,The Promise,2017,7.0,tt10013288,Drama
+short,Looking Away,2017,,tt10016970,Drama
+short,First Kiss,2017,,tt10016496,Drama
+movie,Egise Taara Juvvalu,2017,11.0,tt10017460,Drama
+movie,Ila Ayithe Ela,2017,,tt10017546,Drama
+short,Gusti,2017,6.0,tt10018590,Drama
+short,Freshman,2017,,tt10020048,Drama
+movie,Machiwarla Budha,2017,6.0,tt10025790,Drama
+movie,Ubuntu,2017,9.0,tt10034168,Drama
+short,Recherche,2017,4.0,tt10034738,Drama
+movie,Tatva,2017,5.0,tt10034136,Drama
+movie,Pahil Paul Jivanch,2017,8.0,tt10033760,Drama
+movie,Quan jia fu,2017,10.0,tt0087963,Comedy
+movie,La telenovela errante,2017,9.0,tt0100275,Comedy
+movie,Joe Finds Grace,2017,4.0,tt0137204,Comedy
+movie,Bunyan and Babe,2017,1.0,tt0331314,Comedy
+movie,Suburbicon,2017,11.0,tt0491175,Comedy
+movie,CHIPS,2017,3.0,tt0493405,Comedy
+movie,Caravaggio and My Mother the Pope,2017,12.0,tt0825334,Comedy
+movie,Krystal,2017,4.0,tt0835802,Comedy
+movie,Joe Dick,2017,1.0,tt0937225,Comedy
+short,Introverts Anonymous,2017,9.0,tt10008900,Comedy
+short,Jail Bound,2017,10.0,tt10010634,Comedy
+movie,Dhingana,2017,12.0,tt10011206,Comedy
+short,Bas Paanch Minute,2017,10.0,tt10016710,Comedy
+short,First Kiss,2017,,tt10016496,Comedy
+short,Oops,2017,,tt10017062,Comedy
+short,Vendégszeretet,2017,7.0,tt10017520,Comedy
+short,Excalibur Too,2017,12.0,tt10022382,Comedy
+short,The Ballet Exam,2017,10.0,tt10035124,Comedy
+short,The Wolf of Guacotle,2017,4.0,tt10033594,Comedy
+short,Buddy Cops!,2017,10.0,tt10036736,Comedy
+movie,Shao nv tian shi,2017,7.0,tt10038738,Comedy
+short,"The Good, The Bad And The Tennis",2017,10.0,tt10041362,Comedy
+short,UnHoly Father,2017,6.0,tt10042936,Comedy
+short,Un camión por encima,2017,,tt10049108,Comedy
+short,Goddess,2017,11.0,tt10055588,Comedy
+short,Den gröna dörren,2017,6.0,tt10071966,Comedy
+movie,Kaun Mera Kaun Tera,2017,10.0,tt10071942,Comedy
+short,Pure Gasoline,2017,,tt10070746,Comedy
+short,At Sixes and Sevens,2017,11.0,tt10071408,Comedy
+short,Blåst,2017,6.0,tt10072014,Comedy
+short,Roommates,2017,9.0,tt10073580,Comedy
+short,Cedar,2017,5.0,tt10074554,Comedy
+movie,The Girl From Future,2017,12.0,tt10077598,Comedy
+movie,49 Ngày 2,2017,2.0,tt10078676,Comedy
+movie,The Neighborhood Roadshow,2017,12.0,tt10090742,Comedy
+movie,Wonder Woman,2017,6.0,tt0451279,Action
+movie,CHIPS,2017,3.0,tt0493405,Action
+movie,Justice League,2017,11.0,tt0974015,Action
+movie,Green Brothers,2017,10.0,tt10010820,Action
+short,Red Wrath,2017,11.0,tt10015186,Action
+movie,Nagarsevak - Ek Nayak,2017,3.0,tt10028030,Action
+short,Spider-Man Fan Film - Film Form Studios,2017,9.0,tt10042774,Action
+short,The Case,2017,12.0,tt10061574,Action
+short,Mirror Mirror,2017,4.0,tt10068922,Action
+short,Winner,2017,9.0,tt10074884,Action
+short,A World Without Flame,2017,4.0,tt10085248,Action
+movie,The War of Godzilla 2,2017,9.0,tt10106144,Action
+short,Instagore,2017,5.0,tt10106644,Action
+short,DOJO,2017,11.0,tt10110808,Action
+movie,Khayyum Bhai,2017,6.0,tt10133528,Action
+short,GG,2017,11.0,tt10156108,Action
+short,Red Hood Uprising,2017,12.0,tt10162544,Action
+movie,Vajra,2017,1.0,tt10178356,Action
+short,Layerr Absolute (TV Commercial),2017,7.0,tt10183684,Action
+movie,Grilled,2017,3.0,tt10203032,Action
+movie,Corazones en Llamas 3,2017,11.0,tt10202644,Action
+short,Civil War,2017,3.0,tt10215332,Action
+short,Civil War 2: Resurrection,2017,10.0,tt10215360,Action
+movie,Chalo Chalo Dubai Chalo,2017,,tt10218974,Action
+movie,Gunned Down,2017,7.0,tt1024855,Action
+movie,The King of the Drift,2017,7.0,tt10302896,Action
+movie,Fatal Asset,2017,12.0,tt10303840,Action
+short,The Floor Whisper,2017,3.0,tt10307720,Action
+short,Metal Gear Solid: A New Divide,2017,8.0,tt10305124,Action
+movie,Zapatillas Ferragamo,2017,,tt10322710,Action
+movie,Border Line,2017,12.0,tt10323156,Action
+short,Hledaci Ztracené Historie: Vzkaz Mrtvého Muze,2017,11.0,tt10334460,Action
+movie,Cold Skin,2017,10.0,tt1034385,Action
+movie,La telenovela errante,2017,9.0,tt0100275,Fantasy
+movie,Bunyan and Babe,2017,1.0,tt0331314,Fantasy
+movie,Wonder Woman,2017,6.0,tt0451279,Fantasy
+movie,Justice League,2017,11.0,tt0974015,Fantasy
+short,Excalibur Too,2017,12.0,tt10022382,Fantasy
+short,Lunacy,2017,9.0,tt10038742,Fantasy
+short,It's Lonely Down Here,2017,4.0,tt10054268,Fantasy
+short,Hannah,2017,12.0,tt10054752,Fantasy
+movie,The Girl From Future,2017,12.0,tt10077598,Fantasy
+short,Leveler,2017,1.0,tt10079878,Fantasy
+short,Halloween Metal Detecting,2017,10.0,tt10102186,Fantasy
+short,Cheetah Run,2017,12.0,tt10100980,Fantasy
+short,Through the Pages,2017,10.0,tt10103384,Fantasy
+short,SOL: Soldier of Love,2017,8.0,tt10111472,Fantasy
+short,Ancien to Mahou no Tablet: Mou Hitotsu no Hirune Hime,2017,3.0,tt10121742,Fantasy
+movie,"Pororo, Dinosaur Island Adventure",2017,12.0,tt10156578,Fantasy
+short,Dancer In The Pocket,2017,5.0,tt10165044,Fantasy
+short,Hittarar og Krittarar,2017,5.0,tt10173892,Fantasy
+short,Féérique,2017,5.0,tt10188460,Fantasy
+short,Time Management,2017,6.0,tt10222376,Fantasy
+short,Le Temps d'un Souffle,2017,7.0,tt10230546,Fantasy
+short,Pollen,2017,5.0,tt10260930,Fantasy
+short,Emerge,2017,3.0,tt10292914,Fantasy
+short,Felix Culpa - Happy Fault,2017,6.0,tt10302938,Fantasy
+short,Tobias: Los videos perdidos,2017,3.0,tt10318568,Fantasy
+short,Anamnesis of the Divine,2017,,tt10318564,Fantasy
+short,Stripping with Confetti,2017,,tt10318582,Fantasy
+short,Fruit Town,2017,1.0,tt10340890,Fantasy
+short,El hombre del traje,2017,6.0,tt10355286,Fantasy
+short,Dreamstone,2017,10.0,tt10405892,Fantasy
+short,In Passing,2017,5.0,tt10540472,Fantasy
+short,Betobeto-san,2017,9.0,tt10551428,Fantasy
+short,Anxiety,2017,10.0,tt10574616,Fantasy
+short,Fan 13,2017,10.0,tt10655668,Fantasy
+short,Fan 13 2: Gremlelf Rising,2017,10.0,tt10661880,Fantasy
+short,Minkä menetin,2017,11.0,tt10712542,Fantasy
+short,La Brecha,2017,6.0,tt10747050,Fantasy
+short,We All Bleed,2017,4.0,tt10786950,Fantasy
+short,The Curious Life of Bill Devan,2017,8.0,tt10788852,Fantasy
+short,Crève coeur,2017,5.0,tt10881538,Fantasy
+short,Voices,2017,1.0,tt10901024,Fantasy
+short,La Isla,2017,8.0,tt10960462,Fantasy
+movie,The last midnight chapter 2: The Wicked Die Young,2017,12.0,tt10984600,Fantasy
+short,The Other Dakar,2017,,tt11006870,Fantasy
+movie,Xin xi you zhi Da zhan nu'er guo,2017,1.0,tt11020292,Fantasy
+short,Red Light District,2017,6.0,tt11070766,Fantasy
+short,Bad News,2017,9.0,tt11084844,Fantasy
+short,The Fawley Case,2017,10.0,tt11102684,Fantasy
+short,Cracked,2017,11.0,tt11106548,Fantasy
+short,Gorama,2017,4.0,tt11111966,Fantasy
+short,Chintamani,2017,6.0,tt11118244,Fantasy
+short,The Eye,2017,2.0,tt11152354,Fantasy
+movie,Bigfoot,2017,11.0,tt0112502,Horror
+movie,The Evil Within,2017,8.0,tt0339736,Horror
+movie,Sludge,2017,9.0,tt0451201,Horror
+movie,Rings,2017,2.0,tt0498381,Horror
+movie,Kyodai,2017,3.0,tt10028240,Horror
+short,Asylum,2017,3.0,tt10033410,Horror
+movie,Inside the Walls,2017,,tt10045134,Horror
+short,Utanför,2017,6.0,tt10071582,Horror
+short,Bedtime,2017,7.0,tt10071946,Horror
+short,Rabbit's Blood,2017,8.0,tt10073818,Horror
+short,Senescent,2017,9.0,tt10086870,Horror
+short,Krov,2017,6.0,tt10089084,Horror
+movie,The War of Godzilla 2,2017,9.0,tt10106144,Horror
+short,The Blur,2017,7.0,tt10106718,Horror
+movie,The Ashes of Bethlehem,2017,10.0,tt10115314,Horror
+short,Window Well,2017,4.0,tt10119164,Horror
+movie,Feast of horror and juju 2,2017,10.0,tt10119846,Horror
+short,Tabby & Crow,2017,10.0,tt10122100,Horror
+short,The Murderers Deusions,2017,5.0,tt10278222,Horror
+movie,Perde Ayn-i Cin,2017,3.0,tt10292338,Horror
+short,Maura,2017,11.0,tt10303942,Horror
+short,Tobias: Los videos perdidos,2017,3.0,tt10318568,Horror
+short,Old Blood,2017,4.0,tt10328928,Horror
+short,Dalvin,2017,12.0,tt10339832,Horror
+short,Wolves 360°,2017,5.0,tt10340156,Horror
+movie,Cold Skin,2017,10.0,tt1034385,Horror
+short,Um Terço de Mim,2017,4.0,tt10353918,Horror
+movie,Büyü 2,2017,6.0,tt10392490,Horror
+short,Hungry Rat,2017,3.0,tt10393028,Horror
+movie,Kuyu,2017,3.0,tt10392606,Horror
+movie,Morg,2017,11.0,tt10392644,Horror
+movie,Iki,2017,8.0,tt10392636,Horror
+short,Escuro,2017,4.0,tt10397616,Horror
+short,Journey to the Darkness,2017,4.0,tt10419654,Horror
+short,The Hole,2017,12.0,tt10441666,Horror
+movie,Funeral Wake,2017,4.0,tt10449424,Horror
+short,La escenita,2017,,tt10470546,Horror
+short,Fear of the Dark,2017,8.0,tt10489234,Horror
+short,Baskasi,2017,9.0,tt10492664,Horror
+short,Follower at Dusk,2017,11.0,tt10498966,Horror
+short,Give Me Kill,2017,3.0,tt10502466,Horror
+short,Uno para Camila,2017,1.0,tt10504074,Horror
+short,Cold Read,2017,10.0,tt10508916,Horror
+short,Housekeeping,2017,1.0,tt10513568,Horror
+short,Full House,2017,10.0,tt10514604,Horror
+short,Special Delivery,2017,2.0,tt10598590,Horror
+short,Night of the Vampire,2017,4.0,tt10607244,Horror
+short,The Faceless Menace,2017,12.0,tt10653348,Horror
+short,Cultos,2017,3.0,tt10662736,Horror
+short,Innocent Souls,2017,11.0,tt10666450,Horror
+short,Dearest Dolly,2017,7.0,tt10675508,Horror
+short,Forbidden Woods,2017,8.0,tt10680530,Horror
+short,Return of Pumpkin Man,2017,7.0,tt10680506,Horror
+short,Hotssss Tub Party,2017,8.0,tt10680808,Horror
+short,That Whore,2017,8.0,tt10681200,Horror
+short,Trampoline Terror,2017,8.0,tt10681148,Horror
+short,The Possession of Marcella,2017,8.0,tt10680646,Horror
+short,The Dark One,2017,7.0,tt10680468,Horror
+short,A Nightmare on Orme Road,2017,8.0,tt10681226,Horror
+short,The Doll Teaser,2017,8.0,tt10681244,Horror
+short,Pizza Man,2017,9.0,tt10681704,Horror
+short,Axe Man,2017,9.0,tt10681702,Horror
+short,The Corn Stalker,2017,10.0,tt10681762,Horror
+movie,Meow,2017,12.0,tt10686470,Horror
+short,Deer Hunter,2017,11.0,tt10691550,Horror
+short,The Puppetmaster,2017,5.0,tt10691952,Horror
+short,5 Nights of Terror,2017,10.0,tt10691272,Horror
+short,Rats,2017,11.0,tt10691380,Horror
+short,Saw Teaser Fan Film,2017,10.0,tt10691398,Horror
+short,Night of the Living Trees,2017,10.0,tt10695458,Horror
+short,Minkä menetin,2017,11.0,tt10712542,Horror
+short,The Pokemon Horror Movie You Need to See,2017,10.0,tt10719824,Horror
+short,TOT - Truco o Trato,2017,6.0,tt10717384,Horror
+short,Krampus: The Shadow of Saint Nick,2017,12.0,tt10719888,Horror
+short,Holy Night,2017,11.0,tt10719508,Horror
+short,The Scientist,2017,11.0,tt10719496,Horror
+short,Bedtime,2017,5.0,tt10728398,Horror
+short,Sandals,2017,7.0,tt10739188,Horror
+movie,The Forest,2017,,tt10738834,Horror
+movie,6 and 1 (In the Mind),2017,5.0,tt10738672,Horror
+short,Don't Waste a Precious Minute,2017,2.0,tt10756278,Horror
+short,The Stalker Killer,2017,7.0,tt10768126,Horror
+short,Wrong Answer,2017,,tt10771318,Horror
+short,Halloween - Michael Myers Fan Film,2017,10.0,tt10787152,Horror
+short,Don't Bail,2017,9.0,tt10800744,Horror
+short,It Comes For Us All,2017,9.0,tt10800748,Horror
+short,The Silent Paracosm,2017,3.0,tt10805316,Horror
+short,Game Night,2017,3.0,tt10837510,Horror
+short,Túnel do Carpo,2017,11.0,tt10842184,Horror
+movie,Eyeless Jack,2017,10.0,tt10855416,Horror
+short,Heartless,2017,,tt10858328,Horror
+short,Page of Cups,2017,7.0,tt10876834,Horror
+short,Coach: The Killings,2017,10.0,tt10881710,Horror
+short,Summit Avenue East,2017,12.0,tt10900448,Horror
+movie,The Howling,2017,3.0,tt10902078,Horror
+short,La Suerte,2017,8.0,tt10912144,Horror
+movie,The Left Hand Path,2017,,tt10919508,Horror
+short,Pinkerton,2017,12.0,tt10918792,Horror
+short,Memento Men,2017,,tt10924388,Horror
+short,Good Night,2017,10.0,tt10949670,Horror
+short,You're It,2017,10.0,tt10949650,Horror
+short,Doppelganger,2017,3.0,tt10957766,Horror
+short,Behind You,2017,1.0,tt10967930,Horror
+movie,The last midnight chapter 2: The Wicked Die Young,2017,12.0,tt10984600,Horror
+short,Nightmare Boner,2017,3.0,tt10979990,Horror
+short,De Baixo da Cama,2017,2.0,tt10981818,Horror
+movie,Suicide Mouses Attack,2017,1.0,tt10989950,Horror
+short,Nightmare on MLK Street,2017,12.0,tt10999246,Horror
+short,Battle Clown,2017,7.0,tt11005854,Horror
+short,Gray Matter,2017,10.0,tt11023192,Horror
+short,Wraith,2017,2.0,tt11086054,Horror
+short,Cries in the Night,2017,,tt11091940,Horror
+short,A Little Monster Movie,2017,7.0,tt11099522,Horror
+short,Dracula & Igor,2017,10.0,tt11114750,Horror
+short,Pieces: A Blind Date,2017,10.0,tt11115938,Horror
+short,Chintamani,2017,6.0,tt11118244,Horror
+short,Mukti,2017,9.0,tt11133236,Horror
+movie,Bio Raiders,2017,7.0,tt11137372,Horror
+short,When I Learned to Stop Running,2017,2.0,tt11244064,Horror
+short,Quiet Time,2017,7.0,tt11251682,Horror
+movie,Undha..Ledha..?,2017,12.0,tt11252952,Horror
+short,E Elsassisches Axt Massaker,2017,3.0,tt11258022,Horror
+short,Dark Heart,2017,6.0,tt11489166,Horror
+short,Candyman Can,2017,10.0,tt11496290,Horror
+short,Sightings,2017,10.0,tt11513912,Horror
+short,Placebo,2017,10.0,tt11513930,Horror
+short,A Walk Home Alone,2017,10.0,tt11514166,Horror
+short,Something Scary,2017,10.0,tt11513982,Horror
+short,Game,2017,1.0,tt11536108,Horror
+short,Echoes of Covelo,2017,8.0,tt11548372,Horror
+movie,Linh Duyên,2017,2.0,tt11548674,Horror
+short,The Trust 48HFP,2017,8.0,tt11577662,Horror
+short,K,2017,11.0,tt11590882,Horror
+short,Why is there cardboard in Dracula?,2017,11.0,tt11599670,Horror
+short,What happened to the Psycho house?,2017,11.0,tt11600424,Horror
+short,The Carpenter,2017,11.0,tt11837098,Horror
+short,Utbränd och nydumpad,2017,,tt11835544,Horror
+short,For Sale,2017,11.0,tt11865886,Horror
+short,Pennywise,2017,10.0,tt11884646,Horror
+short,The Final Halloween,2017,10.0,tt11884596,Horror
+short,The Intruder,2017,4.0,tt11910184,Horror
+short,White Rabbit,2017,,tt11974588,Horror
+short,House Mother,2017,9.0,tt11995820,Horror
+short,Chess,2017,10.0,tt12007430,Horror
+short,The Runner,2017,12.0,tt12015718,Horror
+short,17 la desgracia,2017,8.0,tt12013520,Horror
+short,Sinister: Neurophobic,2017,2.0,tt12073216,Horror
+movie,Joe Finds Grace,2017,4.0,tt0137204,Mystery
+movie,Rings,2017,2.0,tt0498381,Mystery
+short,Brainstorm,2017,12.0,tt10037098,Mystery
+movie,Inside the Walls,2017,,tt10045134,Mystery
+short,So You Want To Be A Writer?,2017,11.0,tt10050010,Mystery
+short,Blue Blood,2017,5.0,tt10084288,Mystery
+short,Ploy,2017,5.0,tt10101516,Mystery
+short,La frontière,2017,11.0,tt10148098,Mystery
+short,The Last Paradox,2017,8.0,tt10155592,Mystery
+short,The Cross at the Gem,2017,4.0,tt10300082,Mystery
+short,Memories,2017,10.0,tt10314678,Mystery
+short,Hledaci Ztracené Historie: Vzkaz Mrtvého Muze,2017,11.0,tt10334460,Mystery
+short,Ang May Akda (The Author),2017,6.0,tt10363864,Mystery
+short,Kuviyam,2017,12.0,tt10397962,Mystery
+short,Japón 2084,2017,3.0,tt10461578,Mystery
+short,La última aventura de Jan Europa,2017,1.0,tt10518750,Mystery
+short,Behind Closed Eyes,2017,,tt10583996,Mystery
+short,Los Olores de Teodora Castro,2017,5.0,tt10617638,Mystery
+short,Distância Zero,2017,2.0,tt10650620,Mystery
+short,The Faceless Menace,2017,12.0,tt10653348,Mystery
+short,Saat Rang,2017,7.0,tt10690542,Mystery
+short,Flat No B 12,2017,3.0,tt10692668,Mystery
+short,Flat No B 12,2017,3.0,tt10692654,Mystery
+short,Minkä menetin,2017,11.0,tt10712542,Mystery
+short,Hitchhiker,2017,10.0,tt10723172,Mystery
+short,Mysterious Agent,2017,10.0,tt10768164,Mystery
+short,Switch Line,2017,9.0,tt10783904,Mystery
+short,Ich,2017,3.0,tt10872974,Mystery
+movie,Objects in Mirror Are Closer Than They Appear,2017,9.0,tt10905976,Mystery
+short,Stalker,2017,11.0,tt10913364,Mystery
+short,Chajanka,2017,10.0,tt10976692,Mystery
+short,J'aime t'ecrire,2017,11.0,tt11102290,Mystery
+short,Truemen,2017,4.0,tt11178200,Mystery
+short,203,2017,6.0,tt11281576,Mystery
+movie,2:22,2017,7.0,tt1131724,Mystery
+movie,Three the Movie,2017,10.0,tt11374404,Mystery
+short,The Receiver,2017,10.0,tt11389668,Mystery
+short,River is Drowning,2017,5.0,tt11421844,Mystery
+short,Total Disconnection,2017,7.0,tt11421982,Mystery
+short,I was in the museum the day after tomorrow,2017,8.0,tt11425580,Mystery
+short,La mirada indiscreta,2017,10.0,tt11423368,Mystery
+short,Can't say exactly,2017,9.0,tt11428718,Mystery
+short,Have Some Sleep,2017,,tt11496710,Mystery
+short,Time Flies,2017,10.0,tt11499002,Mystery
+movie,Una ocasión de peligro,2017,6.0,tt11529436,Mystery
+short,Once A Knight,2017,7.0,tt11596344,Mystery
+short,What happened to the Psycho house?,2017,11.0,tt11600424,Mystery
+short,What Did Jack Do?,2017,1.0,tt11644096,Mystery
+movie,Tulip Fever,2017,8.0,tt0491203,Romance
+movie,Rings,2017,2.0,tt0498381,Romance
+short,The First Date,2017,12.0,tt10006428,Romance
+short,The Pursuit of Love,2017,7.0,tt10009896,Romance
+short,Love Lost,2017,11.0,tt10015200,Romance
+movie,Rangeela Raybaa,2017,11.0,tt10033852,Romance
+movie,Spandan What is Relationship,2017,12.0,tt10033904,Romance
+movie,Premay Namaha,2017,3.0,tt10033822,Romance
+movie,Shao nv tian shi,2017,7.0,tt10038738,Romance
+movie,The Girl From Future,2017,12.0,tt10077598,Romance
+movie,49 Ngày 2,2017,2.0,tt10078676,Romance
+movie,Flirty-zel,2017,2.0,tt10090580,Romance
+movie,Bigfoot,2017,11.0,tt0112502,Thriller
+movie,Suburbicon,2017,11.0,tt0491175,Thriller
+movie,The Dot Man,2017,,tt0874268,Thriller
+short,Shutter,2017,12.0,tt10005012,Thriller
+short,Reality or dream,2017,10.0,tt10103644,Thriller
+movie,The War of Godzilla 2,2017,9.0,tt10106144,Thriller
+short,The Blur,2017,7.0,tt10106718,Thriller
+movie,Northland,2017,6.0,tt10126496,Thriller
+short,His Ashes,2017,2.0,tt10148056,Thriller
+short,Red Hood Uprising,2017,12.0,tt10162544,Thriller
+short,Best of Three,2017,12.0,tt10163180,Thriller
+movie,Rajsadan,2017,12.0,tt10178234,Thriller
+short,You're Going to be Taken,2017,11.0,tt10182094,Thriller
+short,BorderClash 4: Cognitive Dissonance,2017,6.0,tt10187802,Thriller
+short,Einmal zuviel,2017,10.0,tt10196008,Thriller
+movie,Saklambaç: Ölüm Oyunu,2017,7.0,tt10392590,Thriller
+movie,Morg,2017,11.0,tt10392644,Thriller
+movie,Iki,2017,8.0,tt10392636,Thriller
+short,Domestic Disturbance,2017,12.0,tt10415486,Thriller
+short,Varam,2017,9.0,tt10431316,Thriller
+movie,The World's Always Ending,2017,12.0,tt10457302,Thriller
+short,The Guard,2017,1.0,tt10457052,Thriller
+movie,Gui jing,2017,8.0,tt10462848,Thriller
+short,Into the void,2017,5.0,tt10466600,Thriller
+movie,Nya,2017,7.0,tt10473028,Thriller
+short,The Last Minute,2017,5.0,tt10477498,Thriller
+movie,For My Girls,2017,9.0,tt10478572,Thriller
+short,Awakening,2017,4.0,tt10506404,Thriller
+short,Desire,2017,6.0,tt10510564,Thriller
+short,Video Sniper,2017,12.0,tt10509954,Thriller
+movie,Ble vasilissa,2017,4.0,tt5464164,Thriller
+short,Trapped,2017,9.0,tt10526762,Thriller
+short,Escape,2017,6.0,tt10564884,Thriller
+movie,Queen,2017,3.0,tt10564912,Thriller
+short,The Psychopath,2017,10.0,tt10570036,Thriller
+short,Janus,2017,1.0,tt10570686,Thriller
+short,Monster,2017,8.0,tt10579178,Thriller
+short,Silo,2017,9.0,tt10579600,Thriller
